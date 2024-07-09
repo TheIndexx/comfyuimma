@@ -1,0 +1,41 @@
+## ComfyUI-Manager: installing dependencies done.
+[2024-07-09 09:17] ** ComfyUI startup time: 2024-07-09 09:17:43.693412
+[2024-07-09 09:17] ** Platform: Darwin
+[2024-07-09 09:17] ** Python version: 3.11.6 (main, Oct  2 2023, 20:46:14) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+[2024-07-09 09:17] ** Python executable: /opt/homebrew/opt/python@3.11/bin/python3.11
+[2024-07-09 09:17] ** ComfyUI Path: /Users/rishicadambe/Rishi/ComfyUI-master
+[2024-07-09 09:17] ** Log path: /Users/rishicadambe/Rishi/ComfyUI-master/comfyui.log
+[2024-07-09 09:17] 
+Prestartup times for custom nodes:
+[2024-07-09 09:17]    0.6 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-Manager
+[2024-07-09 09:17] 
+Total VRAM 16384 MB, total RAM 16384 MB
+[2024-07-09 09:17] pytorch version: 2.0.1
+[2024-07-09 09:17] Set vram state to: SHARED
+[2024-07-09 09:17] Device: mps
+[2024-07-09 09:17] Using sub quadratic optimization for cross attention, if you have memory or speed issues try using: --use-split-cross-attention
+[2024-07-09 09:17] Created a temporary directory at /var/folders/k1/bxj_30td4477n4g95t2xm36m0000gn/T/tmpju8qnp6m
+[2024-07-09 09:17] Writing /var/folders/k1/bxj_30td4477n4g95t2xm36m0000gn/T/tmpju8qnp6m/_remote_module_non_scriptable.py
+[2024-07-09 09:17] ### Loading: ComfyUI-Manager (V2.46.2)
+[2024-07-09 09:17] ### ComfyUI Revision: UNKNOWN (The currently installed ComfyUI is not a Git repository)
+[2024-07-09 09:17] [AnimateDiffEvo] - [0;31mERROR[0m - No motion models found. Please download one and place in: ['/Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-AnimateDiff-Evolved/models', '/Users/rishicadambe/Rishi/ComfyUI-master/models/animatediff_models']
+[2024-07-09 09:17] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[2024-07-09 09:17] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2024-07-09 09:17] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[2024-07-09 09:17] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/github-stats.json
+[2024-07-09 09:17] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2024-07-09 09:17] [VideoHelperSuite] - [0;33mWARNING[0m - Failed to import imageio_ffmpeg
+[2024-07-09 09:17] [VideoHelperSuite] - [0;31mERROR[0m - No valid ffmpeg found.
+[2024-07-09 09:17] 
+Import times for custom nodes:
+[2024-07-09 09:17]    0.0 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/websocket_image_save.py
+[2024-07-09 09:17]    0.0 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-Manager
+[2024-07-09 09:17]    0.1 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-AnimateDiff-Evolved
+[2024-07-09 09:17]    0.2 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-VideoHelperSuite
+[2024-07-09 09:17] 
+[2024-07-09 09:17] Starting server
+
+[2024-07-09 09:17] To see the GUI go to: http://127.0.0.1:8188
+[2024-07-09 09:17] FETCH DATA from: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-Manager/extension-node-map.json [DONE]
+[2024-07-09 09:18] 
+Stopped server

@@ -1,0 +1,47 @@
+## ComfyUI-Manager: installing dependencies done.
+[2024-07-09 10:28] ** ComfyUI startup time: 2024-07-09 10:28:52.725524
+[2024-07-09 10:28] ** Platform: Darwin
+[2024-07-09 10:28] ** Python version: 3.11.6 (main, Oct  2 2023, 20:46:14) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+[2024-07-09 10:28] ** Python executable: /opt/homebrew/opt/python@3.11/bin/python3.11
+[2024-07-09 10:28] ** ComfyUI Path: /Users/rishicadambe/Rishi/ComfyUI-master
+[2024-07-09 10:28] ** Log path: /Users/rishicadambe/Rishi/ComfyUI-master/comfyui.log
+[2024-07-09 10:28] 
+Prestartup times for custom nodes:
+[2024-07-09 10:28]    0.6 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-Manager
+[2024-07-09 10:28] 
+Total VRAM 16384 MB, total RAM 16384 MB
+[2024-07-09 10:28] pytorch version: 2.0.1
+[2024-07-09 10:28] Set vram state to: SHARED
+[2024-07-09 10:28] Device: mps
+[2024-07-09 10:28] Using sub quadratic optimization for cross attention, if you have memory or speed issues try using: --use-split-cross-attention
+[2024-07-09 10:28] Created a temporary directory at /var/folders/k1/bxj_30td4477n4g95t2xm36m0000gn/T/tmp6ycx_8o3
+[2024-07-09 10:28] Writing /var/folders/k1/bxj_30td4477n4g95t2xm36m0000gn/T/tmp6ycx_8o3/_remote_module_non_scriptable.py
+[2024-07-09 10:28] ### Loading: ComfyUI-Manager (V2.46.2)
+[2024-07-09 10:28] ### ComfyUI Revision: UNKNOWN (The currently installed ComfyUI is not a Git repository)
+[2024-07-09 10:29] [36;20m[comfyui_controlnet_aux] | INFO -> Using ckpts path: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/comfyui_controlnet_aux/ckpts[0m
+[2024-07-09 10:29] [36;20m[comfyui_controlnet_aux] | INFO -> Using symlinks: False[0m
+[2024-07-09 10:29] [36;20m[comfyui_controlnet_aux] | INFO -> Using ort providers: ['CUDAExecutionProvider', 'DirectMLExecutionProvider', 'OpenVINOExecutionProvider', 'ROCMExecutionProvider', 'CPUExecutionProvider', 'CoreMLExecutionProvider'][0m
+[2024-07-09 10:29] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/github-stats.json
+[2024-07-09 10:29] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2024-07-09 10:29] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[2024-07-09 10:29] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[2024-07-09 10:29] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2024-07-09 10:29] /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/comfyui_controlnet_aux/node_wrappers/dwpose.py:26: UserWarning: DWPose: Onnxruntime not found or doesn't come with acceleration providers, switch to OpenCV with CPU device. DWPose might run very slowly
+  warnings.warn("DWPose: Onnxruntime not found or doesn't come with acceleration providers, switch to OpenCV with CPU device. DWPose might run very slowly")
+[2024-07-09 10:29] [AnimateDiffEvo] - [0;31mERROR[0m - No motion models found. Please download one and place in: ['/Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-AnimateDiff-Evolved/models', '/Users/rishicadambe/Rishi/ComfyUI-master/models/animatediff_models']
+[2024-07-09 10:29] [VideoHelperSuite] - [0;33mWARNING[0m - Failed to import imageio_ffmpeg
+[2024-07-09 10:29] [VideoHelperSuite] - [0;31mERROR[0m - No valid ffmpeg found.
+[2024-07-09 10:29] 
+Import times for custom nodes:
+[2024-07-09 10:29]    0.0 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/websocket_image_save.py
+[2024-07-09 10:29]    0.0 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-AnimateDiff-Evolved
+[2024-07-09 10:29]    0.0 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-Manager
+[2024-07-09 10:29]    0.1 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-VideoHelperSuite
+[2024-07-09 10:29]    7.7 seconds: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/comfyui_controlnet_aux
+[2024-07-09 10:29] 
+[2024-07-09 10:29] Starting server
+
+[2024-07-09 10:29] To see the GUI go to: http://127.0.0.1:8188
+[2024-07-09 10:29] FETCH DATA from: /Users/rishicadambe/Rishi/ComfyUI-master/custom_nodes/ComfyUI-Manager/extension-node-map.json [DONE]
+[2024-07-09 10:29] 
+Stopped server
